@@ -1,0 +1,4 @@
+/secret/**
+/encrypted/**
+!/encrrypted/**/README.md
+!/secret/README.md
